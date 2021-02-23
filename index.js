@@ -1,5 +1,5 @@
-const testVar = {}
+// const testVar = {}
 
-function testFunc() {
-  return "hi"
-}
+// function testFunc() {
+//   return "hi"
+// }
